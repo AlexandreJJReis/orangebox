@@ -1,7 +1,7 @@
 description: padronizar desenvolvimento
 name: orangebox
 display-name: orangebox
-picture: stack.png
+picture: stack.jpg
 category: backend # Ref: https://docs.stackspot.com/latest/docs/creators-guide/yaml/#category
 compatibility: # Put a list of technologies compatible with the stack
   - java
